@@ -1,0 +1,5 @@
+s=input("enter text:")
+p=list(s)
+p.reverse()
+q="".join(p)
+print(q)
