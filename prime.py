@@ -1,5 +1,5 @@
 n=int(input("enter a number:"))
-m=1
+m=0
 count=0
 for i in range(n):
     m+=1
